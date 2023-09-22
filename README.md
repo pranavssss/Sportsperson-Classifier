@@ -22,4 +22,3 @@ Sklearn for model building
 Jupyter notebook, visual studio code and pycharm as IDE
 Python flask for http server
 HTML/CSS/Javascript for UI
-A working version of this website is here: http://ec2-54-177-122-220.us-west-1.compute.amazonaws.com/
