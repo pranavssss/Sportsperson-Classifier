@@ -1,5 +1,5 @@
 # Sportsperson-Classifier
-In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
+This is a data science and machine learning project where we classify sports personalities. We restrict classification to only 5 people,
 
 Maria Sharapova
 Serena Williams
